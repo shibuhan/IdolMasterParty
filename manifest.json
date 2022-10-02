@@ -1,0 +1,13 @@
+{
+  "name": "IdolMasterAParty",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "IdolMasterAParty",
+  "content_scripts": [{
+    "matches": ["https://imascg-slstage.boom-app.wiki/entry/highscore-party"],
+    "js": [
+      "jquery-3.5.0.min.js",
+      "content.js"
+    ]
+  }]
+}
