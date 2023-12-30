@@ -1,8 +1,8 @@
 {
-  "name": "IdolMasterAParty",
+  "name": "IdolMasterParty",
   "version": "1.0.0",
   "manifest_version": 3,
-  "description": "IdolMasterAParty",
+  "description": "IdolMasterParty",
   "content_scripts": [{
     "matches": ["https://imascg-slstage.boom-app.wiki/*"],
     "js": [
